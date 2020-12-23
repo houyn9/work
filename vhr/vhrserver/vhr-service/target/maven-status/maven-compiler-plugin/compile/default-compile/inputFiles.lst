@@ -1,0 +1,15 @@
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/config/RabbitConfig.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/task/MailSendTask.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/PositionService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/MenuService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/DepartmentService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/RoleService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/utils/HrUtils.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/utils/POIUtils.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/EmployeeService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/JobLevelService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/SalaryService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/HrService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/PoliticsstatusService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/MailSendLogService.java
+/opt/vhr/vhr/vhrserver/vhr-service/src/main/java/org/javaboy/vhr/service/NationService.java
